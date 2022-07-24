@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 9bc76c69aaaf17a43b528e5ff2f01f56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2453284674855969071
+    second: "kissahypp\xE4\xE4_0"
+  - first:
+      213: -4574155235470401122
+    second: "kissahypp\xE4\xE4_1"
+  - first:
+      213: 866934281572903206
+    second: "kissahypp\xE4\xE4_2"
+  - first:
+      213: -8480933849242198788
+    second: "kissahypp\xE4\xE4_3"
+  - first:
+      213: 1926638471070318133
+    second: "kissahypp\xE4\xE4_4"
+  - first:
+      213: -4411983614162425762
+    second: "kissahypp\xE4\xE4_5"
+  - first:
+      213: 594250222429557218
+    second: "kissahypp\xE4\xE4_6"
+  - first:
+      213: 8142683086730420656
+    second: "kissahypp\xE4\xE4_7"
+  - first:
+      213: 4878188588623511464
+    second: "kissahypp\xE4\xE4_8"
+  - first:
+      213: 8035415695669040362
+    second: "kissahypp\xE4\xE4_9"
+  - first:
+      213: -3216545176348089706
+    second: "kissahypp\xE4\xE4_10"
+  - first:
+      213: 9070900214208288237
+    second: "kissahypp\xE4\xE4_11"
+  - first:
+      213: 4361427738784750528
+    second: "kissahypp\xE4\xE4_12"
+  - first:
+      213: 201914136160130072
+    second: "kissahypp\xE4\xE4_13"
+  - first:
+      213: 6002458827416795809
+    second: "kissahypp\xE4\xE4_14"
+  - first:
+      213: -273177997606934589
+    second: "kissahypp\xE4\xE4_15"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_0"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dedc46169e24fdd0800000000000000
+      internalID: -2453284674855969071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_1"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 43
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e912b4a5c065580c0800000000000000
+      internalID: -4574155235470401122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_2"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 42
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629e2c8c228f70c00800000000000000
+      internalID: 866934281572903206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_3"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 43
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc1558199bad4a80800000000000000
+      internalID: -8480933849242198788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_4"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 43
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e7fbe4b7bccba10800000000000000
+      internalID: 1926638471070318133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_5"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 43
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582103574c75c2c0800000000000000
+      internalID: -4411983614162425762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_6"
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 43
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e15c97cd633f3800800000000000000
+      internalID: 594250222429557218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_7"
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 43
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e527202f900170800000000000000
+      internalID: 8142683086730420656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_8"
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 43
+        width: 76
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afb444fcaec2b340800000000000000
+      internalID: 4878188588623511464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_9"
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 43
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae493f27008838f60800000000000000
+      internalID: 8035415695669040362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_10"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 43
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692a6cf34398c53d0800000000000000
+      internalID: -3216545176348089706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_11"
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 42
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de556e46faf42ed70800000000000000
+      internalID: 9070900214208288237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_12"
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 43
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbdccbab67e68c30800000000000000
+      internalID: 4361427738784750528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_13"
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 43
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81454f846d75dc200800000000000000
+      internalID: 201914136160130072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_14"
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 43
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaf51b40840d4350800000000000000
+      internalID: 6002458827416795809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kissahypp\xE4\xE4_15"
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 43
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7af2cfe0a753cf0800000000000000
+      internalID: -273177997606934589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
